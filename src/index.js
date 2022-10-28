@@ -76,7 +76,7 @@ function showCity() {
   <br />
   Welcome to
   <br />
-  <span id='currentCity'>Kyiv</span>
+  <span id='currentCity'>Enter your <br /> city</span>
   <br />
   </span>
   <span id='temp'>
